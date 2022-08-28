@@ -1,6 +1,9 @@
 {
   "name": "movie-app-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.4.0"
+  },
   "description": "Complete BackEnd SetUp",
   "main": "server.js",
   "scripts": {
