@@ -5,7 +5,8 @@ const showSchema = new mongoose.Schema({
     name: String,
     genre: String,
     image: String,
-    created: String
+    created: String,
+    lastWatchedEp: String
 },
 { timestamps: true }
 );
